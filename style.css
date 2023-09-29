@@ -1,0 +1,33 @@
+body{
+    background:linear-gradient(#808080, #024a86);
+    
+    }
+    
+    .formulario{
+    background-color:660000;
+    color:ffffff;
+    }
+    
+    div{
+    text-align:center;
+    }
+    
+    a:hover{
+    background-color:#ff0000;
+    }
+    
+    a{
+    background:#cc3333;
+    text-decoration:none;
+    color:#000000;
+    border: 50px;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 3px;
+    }
+    
+    .herejia{
+    text-align:center;
+    }
+    
+    
